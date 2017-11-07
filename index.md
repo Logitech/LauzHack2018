@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Logitech/hackathon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Hackathon resources
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Keyboard VR Bridge SDK
 
-### Markdown
+This is the SDK to access the Logitech VR Bridge. See Nov 2, 2017 annoucement [here](https://blog.vive.com/us/2017/11/02/introducing-the-logitech-bridge-sdk).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](pics/bridge.png)
 
-```markdown
-Syntax highlighted code block
+*   [Logitech Bridge SDK](https://github.com/Logitech/logi_bridge_sdk)
 
-# Header 1
-## Header 2
-### Header 3
+## Craft SDK
 
-- Bulleted
-- List
+This is the SDK to access the [Craft keyboard](https://www.logitech.com/en-ch/product/craft) and its input dial. This is a preview version of the SDK specially for the hackathon!
 
-1. Numbered
-2. List
+![](pics/craft.png)
 
-**Bold** and _Italic_ and `Code` text
+*   [Craft SDK API](res/Craft SDK API - Hackathon Event.pdf)
+*   [Craft SDK examples code](res/sdk1.0.zip)
+*   Options with Craft SDK support ([Win](https://drive.google.com/file/d/11s2ABw01Ddp8u2XfSLWumI26iFk1mSzq/view?usp=sharing), [OSX](res/LogiMgr Installer 6.72.108.app.zip))
 
-[Link](url) and ![Image](src)
-```
+## Gaming SDK
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](pics/gaming.png)
 
-### Jekyll Themes
+These are the SDKs to control our Gaming devices.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Logitech/hackathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*  [LGS (Logitech Gaming Software)](http://support.logitech.com/en_us/software/lgs)
+*  [LED Illumination SDK](https://www.logitechg.com/en-us/developers)
+*  [G-Key Macro SDK](https://www.logitechg.com/en-us/developers)
+*  [ARX Control SDK](https://www.logitechg.com/en-us/developers)
+*  [Game panel SDK](https://www.logitechg.com/en-us/developers)
+*  [Steering Wheel SDK](https://www.logitechg.com/en-us/developers)
 
-### Support or Contact
+## Other resources
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Other resources that can be helpful for challenges.
+
+*  Input event capture docs (Win [here](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644990(v=vs.85).aspx) and [there](https://msdn.microsoft.com/fr-fr/library/windows/desktop/ms645536(v=vs.85).aspx), [OSX](https://developer.apple.com/reference/coregraphics/quartz_event_services), [Linux](https://www.freedesktop.org/wiki/Software/libevdev/))
+*  Input event injections docs (Win [here](https://msdn.microsoft.com/fr-fr/library/windows/desktop/ms646304(v=vs.85).aspx) and [there](https://msdn.microsoft.com/en-us/library/windows/desktop/ms646310(v=vs.85).aspx), OSX [here](https://developer.apple.com/documentation/coregraphics/1456564-cgeventcreatekeyboardevent) and [there](https://developer.apple.com/documentation/coregraphics/1456527-cgeventpost), [Linux](http://thiemonge.org/getting-started-with-uinput))
+*  Input event capture example ([Win / C#](res/InputLogger.zip))
+
+# Support
+
+For support, you can either ping us on [#logitech](https://lauzhack2017.slack.com/messages/logitech/) in lauzhack2017 Slack channel or just come to our booth!
+
+![https://www.logitech.com](pics/logitech.png)
