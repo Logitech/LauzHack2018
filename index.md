@@ -1,23 +1,14 @@
 
 # Hackathon resources
 
-## Keyboard VR Bridge SDK
-
-This is the SDK to access the Logitech VR Bridge. See Nov 2, 2017 annoucement [here](https://blog.vive.com/us/2017/11/02/introducing-the-logitech-bridge-sdk).
-
-![](pics/bridge.png)
-
-*   [Logitech Bridge SDK](https://github.com/Logitech/logi_bridge_sdk)
-
 ## Craft SDK
 
 This is the SDK to access the [Craft keyboard](https://www.logitech.com/en-ch/product/craft) and its input dial. This is a preview version of the SDK specially for the hackathon!
 
 ![](pics/craft.png)
 
-*   [Craft SDK API](res/Craft SDK API - Hackathon Event.pdf)
-*   [Craft SDK examples code](res/sdk1.0.zip)
-*   Options with Craft SDK support ([Win](https://drive.google.com/file/d/11s2ABw01Ddp8u2XfSLWumI26iFk1mSzq/view?usp=sharing), [OSX](res/LogiMgr Installer 6.72.108.app.zip))
+*   [Craft Crown SDK documentation](https://github.com/Logitech/logi_craft_sdk)
+*   Logitech Options with Craft SDK support ([Win/OSX](https://support.logitech.com/en_us/software/options))
 
 ## Gaming SDK
 
@@ -26,11 +17,12 @@ This is the SDK to access the [Craft keyboard](https://www.logitech.com/en-ch/pr
 These are the SDKs to control our Gaming devices.
 
 *  [LGS (Logitech Gaming Software)](http://support.logitech.com/en_us/software/lgs)
-*  [LED Illumination SDK](https://www.logitechg.com/en-us/developers)
-*  [G-Key Macro SDK](https://www.logitechg.com/en-us/developers)
-*  [ARX Control SDK](https://www.logitechg.com/en-us/developers)
-*  [Game panel SDK](https://www.logitechg.com/en-us/developers)
-*  [Steering Wheel SDK](https://www.logitechg.com/en-us/developers)
+*  [Logitech G HUB (Early Access)](https://support.logitech.com/en_us/software/lghub)
+*  [LED Illumination SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
+*  [G-Key Macro SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
+*  [ARX Control SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
+*  [Game panel SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
+*  [Steering Wheel SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
 
 ## Other resources
 
@@ -42,6 +34,6 @@ Other resources that can be helpful for challenges.
 
 # Support
 
-For support, you can either ping us on [#logitech](https://lauzhack2017.slack.com/messages/logitech/) in lauzhack2017 Slack channel or just come to our booth!
+For support, you can either ping us on [#logitech](https://lauzhack2018.slack.com/messages/logitech/) in lauzhack2018 Slack channel or just come to our booth!
 
 ![https://www.logitech.com](pics/logitech.png)
