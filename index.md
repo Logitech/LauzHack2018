@@ -1,28 +1,23 @@
 
 # Hackathon resources
 
-## Craft SDK
-
-This is the SDK to access the [Craft keyboard](https://www.logitech.com/en-ch/product/craft) and its input dial. This is a preview version of the SDK specially for the hackathon!
-
-![](pics/craft.png)
-
-*   [Craft Crown SDK documentation](https://github.com/Logitech/logi_craft_sdk)
-*   Logitech Options with Craft SDK support ([Win/OSX](https://support.logitech.com/en_us/software/options))
-
-## Gaming SDK
+## Gaming SDKs (Windows)
 
 ![](pics/gaming.png)
 
-These are the SDKs to control our Gaming devices.
+Pre-requisite:
 
 *  [LGS (Logitech Gaming Software)](http://support.logitech.com/en_us/software/lgs)
-*  [Logitech G HUB (Early Access)](https://support.logitech.com/en_us/software/lghub)
-*  [LED Illumination SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
-*  [G-Key Macro SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
-*  [ARX Control SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
-*  [Game panel SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
-*  [Steering Wheel SDK](https://www.logitechg.com/en-us/innovation/developer-lab.html)
+
+These are the SDKs to control our Gaming devices:
+
+*  [Steering Wheel SDK](http://gaming.logitech.com/sdk/LogitechSteeringWheelSDK_8.75.30.zip)
+*  [Game panel SDK](http://gaming.logitech.com/sdk/LCDSDK_8.57.148.zip)
+*  [ARX Control SDK](http://gaming.logitech.com/sdk/ARX_8.87.zip)
+*  [G-Key Macro SDK](http://gaming.logitech.com/sdk/GkeySDK_8.57.148.zip)
+*  [LED Illumination SDK](https://www.logitechg.com/sdk/LED_SDK_9.00.zip)
+
+You can find them all in our [developer lab](https://www.logitechg.com/en-us/innovation/developer-lab.html).
 
 ## Other resources
 
